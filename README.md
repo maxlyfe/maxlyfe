@@ -1,7 +1,6 @@
 # Olá, eu sou Maximilian Gonzalo Lopez y Fernandez!
 
-
-![Anurag's GitHub stats](https://github.com/maxlyfe/decri-a-/blob/main/README.md) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codethi&layout=compact&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codethi&layout=compact&theme=highcontrast)
 
 <div style="display: inline_block">
 
