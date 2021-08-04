@@ -19,6 +19,6 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://github.com/maxlyfe) 
 [<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />](https://codepen.io/maxlyfe) 
 [<img src="https://img.shields.io/badge/-gmail-2EC866?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:maximilianolyfbuzios@gmail.com)
-[<a href="https://wa.link/7gme7a" target="_blank"><i class="fa fa-whatsapp" aria-hidden="true"></i> </a>]
+[<img class="fa fa-whatsapp" aria-hidden="true" />](https://wa.link/7gme7a)
 
 ![Snake animation](https://github.com/codethi/codethi/blob/output/github-contribution-grid-snake.svg)
